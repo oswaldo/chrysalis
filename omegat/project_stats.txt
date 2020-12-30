@@ -1,15 +1,15 @@
-12/30/20 2:08 AM
+12/30/20 2:44 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	    5581	68447	                     330888	                       389556	     2	
-Remaining:       	    5398	66753	                     323131	                       380319	     2	
+Remaining:       	    5581	68447	                     330888	                       389556	     2	
 Unique:          	    5333	67630	                     327051	                       385135	     2	
-Unique Remaining:	    5211	66269	                     320675	                       377551	     2	
+Unique Remaining:	    5333	67630	                     327051	                       385135	     2	
 
 
 Individual File Statistics:
 
 File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-c1.md       	           196	                95	            195	                       95	       2115	           1052	        2111	                  1052	                             9856	                                 5007	                              9842	                                        5007	                              11775	                                   5964	                               11758	                                          5964	
-Chrysalis.md	          5385	              5303	           5138	                     5116	      66332	          65701	       65519	                 65217	                           321032	                               318124	                            317209	                                      315668	                             377781	                                 374355	                              373377	                                        371587	
+c1.md       	           196	               196	            195	                      195	       2115	           2115	        2111	                  2111	                             9856	                                 9856	                              9842	                                        9842	                              11775	                                  11775	                               11758	                                         11758	
+Chrysalis.md	          5385	              5385	           5138	                     5138	      66332	          66332	       65519	                 65519	                           321032	                               321032	                            317209	                                      317209	                             377781	                                 377781	                              373377	                                        373377	
