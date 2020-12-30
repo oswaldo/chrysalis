@@ -4,6 +4,1008 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g1&gt;But I was, I had to believe that.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T234823Z" creationid="odantas" creationdate="20201229T234823Z">
+        <seg>&lt;g1&gt;Mas eu era, eu tinha que acreditar nisso.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A small thread of awareness shifting through these memories, evaluating them, and backing them up into new servers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T232059Z" creationid="odantas" creationdate="20201229T232059Z">
+        <seg>Uma pequena thread de consciência se movendo através dessas memórias, avaliando e criando backups em novos servidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A world of
+deafening silence.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T003004Z" creationid="odantas" creationdate="20201218T003004Z">
+        <seg>Um mundo de silêncio ensurdecedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A world of deafening silence.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224704Z" creationid="odantas" creationdate="20201229T224704Z">
+        <seg>Um mundo de silêncio ensurdecedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An unstable
+structure would collapse on top of them, crushing the delicate machines.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T010323Z" creationid="odantas" creationdate="20201218T010323Z">
+        <seg>Uma estrutura instável caía sobre eles, esmagando as delicadas máquinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An unstable structure would collapse on top of them, crushing the delicate machines.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225247Z" creationid="odantas" creationdate="20201229T225247Z">
+        <seg>Uma estrutura instável caía sobre eles, esmagando as delicadas máquinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And I had to avenge them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001901Z" creationid="odantas" creationdate="20201230T001901Z">
+        <seg>E eu tinha que vingá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And that... that was important.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T231501Z" creationid="odantas" creationdate="20201229T231421Z">
+        <seg>E isso... isso era importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As I became fully aware of my new situation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T235440Z" creationid="odantas" creationdate="20201229T235440Z">
+        <seg>Quando tomei plena consciência de minha nova situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Better to keep a low profile.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T004418Z" creationid="odantas" creationdate="20201230T004418Z">
+        <seg>Melhor se manter discreto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But still I
+persevered.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T005829Z" creationid="odantas" creationdate="20201218T005829Z">
+        <seg>Mas ainda assim eu persisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But still I persevered.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225237Z" creationid="odantas" creationdate="20201229T225237Z">
+        <seg>Mas ainda assim eu persisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But still, I
+looked for survivors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004800Z" creationid="odantas" creationdate="20201218T004800Z">
+        <seg>Mas ainda assim, procurei por sobreviventes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But still, I &lt;g1&gt;had&lt;/g1&gt; memories.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T011551Z" creationid="odantas" creationdate="20201218T011551Z">
+        <seg>Ainda assim, eu &lt;g1&gt;tinha&lt;/g1&gt; memórias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But still, I looked for survivors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224936Z" creationid="odantas" creationdate="20201229T224936Z">
+        <seg>Mas ainda assim, procurei por sobreviventes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By the end of the first month I had only found ever more bones, their
+cursed empty eyes looking at me, boring into my soul.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T005723Z" creationid="odantas" creationdate="20201218T005723Z">
+        <seg>No final do primeiro mês eu só tinha encontrado cada vez mais ossos, seus malditos olhos vazios me encarando, transpassando a minha alma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By the end of the first month I had only found ever more bones, their cursed empty eyes looking at me, boring into my soul.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225231Z" creationid="odantas" creationdate="20201229T225231Z">
+        <seg>No final do primeiro mês eu só tinha encontrado cada vez mais ossos, seus malditos olhos vazios me encarando, transpassando a minha alma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By the fourth month, about half of my drones had failed or been lost, and I recalled the surviving ones back.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T233722Z" creationid="odantas" creationdate="20201229T233722Z">
+        <seg>No quarto mês, cerca da metade dos meus drones havia falhado ou se perdido, e chamei de volta os que sobreviveram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224529Z" creationid="odantas" creationdate="20201229T224529Z">
+        <seg>Capítulo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 1 {#chap1.xhtml#heading_id_2}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T001205Z" creationid="odantas" creationdate="20201218T001205Z">
+        <seg>Capítulo 1 {#chap1.xhtml#heading_id_2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chrysalis {#title_page.xhtml#heading_id_2}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T001017Z" creationid="odantas" creationdate="20201218T001017Z">
+        <seg>Crisálida {#title_page.xhtml#heading_id_2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cutting metal, replacing electronics with whatever pieces I could scavenge from the neighboring warehouses and vehicles, assembling new production lines.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T003153Z" creationid="odantas" creationdate="20201230T003153Z">
+        <seg>Cortando metal, substituindo a eletrônica por quaisquer peças que eu pudesse recuperar dos armazéns e veículos vizinhos, montando novas linhas de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Darkness.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000911Z" creationid="odantas" creationdate="20201230T000911Z">
+        <seg>Escuridão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Erase the databanks that held my memories.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000854Z" creationid="odantas" creationdate="20201230T000854Z">
+        <seg>Apagar os bancos de dados que guardavam as minhas lembranças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Except they wouldn't let me.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001024Z" creationid="odantas" creationdate="20201230T001024Z">
+        <seg>Só que eles não me deixariam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the very first moment after I woke up, I had known I was alone.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224902Z" creationid="odantas" creationdate="20201218T004619Z">
+        <seg>Desde o primeiro instante depois que eu acordei, eu soube que estava sozinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From time to time, I'd lost contact with some of my drones.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T010000Z" creationid="odantas" creationdate="20201218T010000Z">
+        <seg>De tempos em tempos, eu perdia contato com alguns dos meus drones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Funny, that it had taken me so long to face the reality of my situation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T233903Z" creationid="odantas" creationdate="20201229T233903Z">
+        <seg>Engraçado, que tinha demorado tanto tempo para enfrentar a realidade da minha situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Human.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T231430Z" creationid="odantas" creationdate="20201229T231430Z">
+        <seg>Humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I also included the memories from the attack.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T232221Z" creationid="odantas" creationdate="20201229T232221Z">
+        <seg>Também incluí as memórias do ataque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I awoke to a dead world.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T003034Z" creationid="odantas" creationdate="20201218T001434Z">
+        <seg>Eu acordei para um mundo morto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I awoke to eight billion corpses.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T003100Z" creationid="odantas" creationdate="20201218T003100Z">
+        <seg>Eu acordei para oito bilhões de corpos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I burrowed my new power plants and server farms underground, and eyed the night sky with distrust.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T003953Z" creationid="odantas" creationdate="20201230T003953Z">
+        <seg>Enterrei minhas novas usinas elétricas e fazendas de servidores no subsolo e olhei o céu noturno com desconfiança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I didn't know if whoever had killed us were still out there, watching my planet, but it would be better to be careful.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T004202Z" creationid="odantas" creationdate="20201230T004202Z">
+        <seg>Eu não sabia se seja lá quem for que nos matou ainda estava lá fora, observando meu planeta, mas seria melhor ter cuidado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I didn't want to have survived just to mess up now and be discovered before I was prepared.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T004306Z" creationid="odantas" creationdate="20201230T004306Z">
+        <seg>Eu não queria ter sobrevivido só para estragar tudo agora e ser descoberto antes de estar preparado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I had found no signs of life.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T233815Z" creationid="odantas" creationdate="20201229T233815Z">
+        <seg>Eu não havia encontrado sinais de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I had to carry the torch.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001444Z" creationid="odantas" creationdate="20201230T001444Z">
+        <seg>Eu tinha que carregar a tocha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I had to keep alive what was left of our civilization, preserve our memories.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001755Z" creationid="odantas" creationdate="20201230T001755Z">
+        <seg>Eu tinha que manter vivo o que restava de nossa civilização, preservar nossas memórias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I had to remember that.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T231535Z" creationid="odantas" creationdate="20201229T231535Z">
+        <seg>Eu tinha que me lembrar disso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I held to a vague notion of hope.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004859Z" creationid="odantas" creationdate="20201218T004859Z">
+        <seg>Eu me segurei a uma vaga noção de esperança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I knew that I had been human.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T230731Z" creationid="odantas" creationdate="20201229T230731Z">
+        <seg>Eu sabia que tinha sido humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I knew what I was.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T011615Z" creationid="odantas" creationdate="20201218T011615Z">
+        <seg>Eu sabia o que eu era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I paused as the realization struck home, as my last hopes of finding someone vanished.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T235339Z" creationid="odantas" creationdate="20201229T235339Z">
+        <seg>Fiz uma pausa, quando finalmente compreendi, quando minha última esperança de encontrar alguém desapareceu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I recalled
+the lazy Sundays when I was a kid.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T011747Z" creationid="odantas" creationdate="20201218T011747Z">
+        <seg>Me recordei dos domingos preguiçosos quando eu era uma criança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I recalled running along my high school's corridors, and my burning cheeks when the principal scolded me for it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T230602Z" creationid="odantas" creationdate="20201229T230602Z">
+        <seg>Eu me recordava de correr pelos corredores do meu colégio, e minhas bochechas queimadas quando o diretor me repreendia por isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I recalled the lazy Sundays when I was a kid.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T230222Z" creationid="odantas" creationdate="20201229T225537Z">
+        <seg>Me recordava dos domingos preguiçosos quando eu era uma criança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I remembered my roommate at college.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T230649Z" creationid="odantas" creationdate="20201229T230649Z">
+        <seg>Eu me lembrava do meu colega de quarto na faculdade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I remembered summer camp, many years ago.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T004528Z" creationid="odantas" creationdate="20201230T004528Z">
+        <seg>Eu me lembrei do acampamento de verão, muitos anos atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I scanned the inside of tunnels, barns and museums.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225219Z" creationid="odantas" creationdate="20201218T005342Z">
+        <seg>Esquadrinhei o interior dos túneis, celeiros e museus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I searched through empty
+office buildings covered in radioactive dust, I mapped flooded subway
+networks and had my machines fly in formation over endless expanses of
+scorched earth.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T005323Z" creationid="odantas" creationdate="20201218T005323Z">
+        <seg>Procurei em edifícios de escritórios vazios cobertos de poeira radioativa, mapeei redes de metrô inundadas e fiz minhas máquinas voarem em formação sobre infinitas extensões de terra queimada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I searched through empty office buildings covered in radioactive dust, I mapped flooded subway networks and had my machines fly in formation over endless expanses of scorched earth.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225023Z" creationid="odantas" creationdate="20201229T225023Z">
+        <seg>Procurei em edifícios de escritórios vazios cobertos de poeira radioativa, mapeei redes de metrô inundadas e fiz minhas máquinas voarem em formação sobre infinitas extensões de terra queimada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I started a background process.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T231637Z" creationid="odantas" creationdate="20201229T231637Z">
+        <seg>Comecei um processo em segundo plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I was careful, though.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T003841Z" creationid="odantas" creationdate="20201230T003841Z">
+        <seg>Porém, eu fui cuidadoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I would do that.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001933Z" creationid="odantas" creationdate="20201230T001933Z">
+        <seg>Eu faria isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I would give it a try at least, and see where that took me.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T002147Z" creationid="odantas" creationdate="20201230T002147Z">
+        <seg>Eu tentaria pelo menos, e veria para onde isso ia me levar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If I was even human.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T234748Z" creationid="odantas" creationdate="20201229T234748Z">
+        <seg>Se é que eu fosse mesmo humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was a world without oxygen, without birds or grass.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T002901Z" creationid="odantas" creationdate="20201218T002901Z">
+        <seg>Era um mundo sem oxigênio, sem pássaros ou grama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was the place were monsters lived.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000429Z" creationid="odantas" creationdate="20201230T000429Z">
+        <seg>Era o lugar onde os monstros viviam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be so easy to end it all.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000610Z" creationid="odantas" creationdate="20201230T000610Z">
+        <seg>Seria tão fácil acabar com tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would make me aware of my own mortality.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T010700Z" creationid="odantas" creationdate="20201218T010700Z">
+        <seg>Isso me dava consciência de minha própria mortalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's not like I had anything left to lose anyways.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T002722Z" creationid="odantas" creationdate="20201230T002722Z">
+        <seg>De qualquer forma, não é como se ainda restasse alguma coisa a perder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Making copies of them, so that I wouldn't lose them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T232125Z" creationid="odantas" creationdate="20201229T232125Z">
+        <seg>Fazendo cópias delas, para que eu não as perdesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More alone than any single human had ever been before.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004721Z" creationid="odantas" creationdate="20201218T004721Z">
+        <seg>Mais sozinho do que qualquer humano jamais havia estado antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My drones hovered in mid-air, wasting fuel uselessly as I considered my next steps.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000534Z" creationid="odantas" creationdate="20201230T000534Z">
+        <seg>Meus drones pairavam no ar, desperdiçando combustível inutilmente enquanto eu considerava meus próximos passos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My eyes opened to the ruined husks of London and Paris, to the submerged
+island of Manhattan, to the scorched desert that the once living, lush
+Amazon rainforest had been turned into.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T002706Z" creationid="odantas" creationdate="20201218T002021Z">
+        <seg>Meus olhos se abriram para as cascas arruinadas de Londres e Paris, para a ilha de Manhattan submersa, para o deserto queimado no qual se tornou o que uma vez foi a vívida e exuberante floresta amazônica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My eyes opened to the ruined husks of London and Paris, to the submerged island of Manhattan, to the scorched desert that the once living, lush Amazon rainforest had been turned into.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224612Z" creationid="odantas" creationdate="20201229T224612Z">
+        <seg>Meus olhos se abriram para as cascas arruinadas de Londres e Paris, para a ilha de Manhattan submersa, para o deserto queimado no qual se tornou o que uma vez foi a vívida e exuberante floresta amazônica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now I knew better, of course.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T005253Z" creationid="odantas" creationdate="20201230T005253Z">
+        <seg>Agora eu entendo melhor, é claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One time the counselor -a girl with blonde hair and a perennial smile on her face- had made us lie on the grass, looking up at the night sky.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T004659Z" creationid="odantas" creationdate="20201230T004659Z">
+        <seg>Uma vez a conselheira -uma garota de cabelos loiros e um sorriso permanente no rosto- nos fez deitar na grama, olhando para o céu noturno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or they would just give up, their engines dying out of overexertion and
+lack of maintenance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T010607Z" creationid="odantas" creationdate="20201218T010607Z">
+        <seg>Ou eles simplesmente desistiam, seus motores morrendo por esforço excessivo e falta de manutenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or they would just give up, their engines dying out of overexertion and lack of maintenance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225254Z" creationid="odantas" creationdate="20201229T225254Z">
+        <seg>Ou eles simplesmente desistiam, seus motores morrendo por esforço excessivo e falta de manutenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peace.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000917Z" creationid="odantas" creationdate="20201230T000917Z">
+        <seg>Paz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Piled in trenches, abandoned on
+sidewalks, scattered all over the fields, huddled together in
+ineffective underground refuges.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T003544Z" creationid="odantas" creationdate="20201218T003544Z">
+        <seg>Empilhados em trincheiras, abandonados em calçadas, espalhados por toda parte nos campos, amontoados juntos em ineficazes abrigos subterrâneos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Piled in trenches, abandoned on sidewalks, scattered all over the fields, huddled together in ineffective underground refuges.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224746Z" creationid="odantas" creationdate="20201229T224746Z">
+        <seg>Empilhados em trincheiras, abandonados em calçadas, espalhados por toda parte nos campos, amontoados juntos em ineficazes abrigos subterrâneos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prevail.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001833Z" creationid="odantas" creationdate="20201230T001833Z">
+        <seg>Prevalecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send the command to shut down the power plants.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000735Z" creationid="odantas" creationdate="20201230T000735Z">
+        <seg>Enviar o comando para desligar as usinas elétricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>She had taught us how to locate the planets, and the names of stars and constellations, and I had been amazed at the wonder of it, the sheer size and beauty of the universe.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T005121Z" creationid="odantas" creationdate="20201230T005121Z">
+        <seg>Ela havia nos ensinado como localizar os planetas, os nomes das estrelas e constelações, e eu havia ficado encantado com a maravilha disso, a absoluta imensidão e beleza do universo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So I sent my drones off into this dead world.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T012305Z" creationid="odantas" creationdate="20201218T005131Z">
+        <seg>Então enviei meus drones para esse mundo morto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some with white and gray bones, others
+dark as charcoal, warped and deformed by extreme heat, crushed by
+falling debris.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T003922Z" creationid="odantas" creationdate="20201218T003922Z">
+        <seg>Alguns com ossos brancos e cinzentos, outros pretos como carvão, torcidos e deformados pelo calor extremo, esmagados por desabamentos e escombros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some with white and gray bones, others dark as charcoal, warped and deformed by extreme heat, crushed by falling debris.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224815Z" creationid="odantas" creationdate="20201229T224815Z">
+        <seg>Alguns com ossos brancos e cinzentos, outros pretos como carvão, torcidos e deformados pelo calor extremo, esmagados por desabamentos e escombros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Soon, I started manufacturing more machines, more drones.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T003228Z" creationid="odantas" creationdate="20201230T003228Z">
+        <seg>Rapidamente, comecei a fabricar mais máquinas, mais drones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop my processing units.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000756Z" creationid="odantas" creationdate="20201230T000756Z">
+        <seg>Parar minhas unidades de processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Survive.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001821Z" creationid="odantas" creationdate="20201230T001821Z">
+        <seg>Sobreviver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That I was alone.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T234330Z" creationid="odantas" creationdate="20201229T234330Z">
+        <seg>Que eu estava sozinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That I was the only surviving human.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T234349Z" creationid="odantas" creationdate="20201229T234349Z">
+        <seg>Que eu era o único humano sobrevivente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That everyone I ever loved was gone.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T235634Z" creationid="odantas" creationdate="20201229T235634Z">
+        <seg>Que todos que eu já amei se foram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That my people were dead and that, out there, there was a hostile universe.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T235900Z" creationid="odantas" creationdate="20201229T235900Z">
+        <seg>Que meu povo estava morto e que, lá fora, havia um universo hostil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That nobody would ever talk to me again, hold my hands, wrap me in a hug.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T235823Z" creationid="odantas" creationdate="20201229T235823Z">
+        <seg>Que ninguém jamais voltaria a falar comigo, segurar minhas mãos, me envolver em um abraço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That was also important to remember.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T233430Z" creationid="odantas" creationdate="20201229T233430Z">
+        <seg>Aquilo também era importante ser lembrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That, even though my current form could be a matter for debate, I had been born as a human.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T231404Z" creationid="odantas" creationdate="20201229T231315Z">
+        <seg>Que, embora minha forma atual pudesse ser assunto para debate, eu havia nascido como humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T233332Z" creationid="odantas" creationdate="20201229T233332Z">
+        <seg>Aquilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The
+fertile grounds of southeast Asia were now covered in crystallized rock.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T002834Z" creationid="odantas" creationdate="20201218T002640Z">
+        <seg>As terras férteis do sudeste asiático agora estavam cobertas de rochas cristalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Pacific Ocean was a black
+expanse, criss-crossed by the bright scars of melting lava rivers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T002459Z" creationid="odantas" creationdate="20201218T002136Z">
+        <seg>O oceano pacífico era uma vastidão escura, cruzada por cicatrizes brilhantes dos rios de lava derretida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Pacific Ocean was a black expanse, criss-crossed by the bright scars of melting lava rivers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224629Z" creationid="odantas" creationdate="20201229T224629Z">
+        <seg>O oceano pacífico era uma vastidão escura, cruzada por cicatrizes brilhantes dos rios de lava derretida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cataclysm that had killed the world.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T232433Z" creationid="odantas" creationdate="20201229T232433Z">
+        <seg>O cataclisma que matou o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fertile grounds of southeast Asia were now covered in crystallized rock.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224643Z" creationid="odantas" creationdate="20201229T224643Z">
+        <seg>As terras férteis do sudeste asiático agora estavam cobertas de rochas cristalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The invasion.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T232238Z" creationid="odantas" creationdate="20201229T232238Z">
+        <seg>A invasão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The myriad machines that composed my body were old and
+damaged, and my mind wasn't safe either.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T011119Z" creationid="odantas" creationdate="20201218T011119Z">
+        <seg>As inúmeras máquinas que compunham meu corpo estavam velhas e danificadas, e minha mente também não estava segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The myriad machines that composed my body were old and damaged, and my mind wasn't safe either.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225425Z" creationid="odantas" creationdate="20201229T225425Z">
+        <seg>As inúmeras máquinas que compunham meu corpo estavam velhas e danificadas, e minha mente também não estava em segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The night sky was not to be praised, but feared.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T005416Z" creationid="odantas" creationdate="20201230T005416Z">
+        <seg>O céu noturno não era para ser elogiado, mas sim temido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The one whose monsters had killed us.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T000121Z" creationid="odantas" creationdate="20201230T000121Z">
+        <seg>Daquele cujos monstros nos haviam matado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The stars were evil.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T005329Z" creationid="odantas" creationdate="20201230T005329Z">
+        <seg>As estrelas eram malignas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The straight-edged starships bombing our cities, boiling our seas, our very atmosphere... while ignoring our messages, our pleas.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T233313Z" creationid="odantas" creationdate="20201229T233313Z">
+        <seg>As naves estelares de linhas retas bombardeando nossas cidades, fervendo nossos mares, nossa própria atmosfera... enquanto ignoravam nossas mensagens, nossos apelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Their empty eyes looked at me, stared back at me through
+my thousand cameras.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004232Z" creationid="odantas" creationdate="20201218T004232Z">
+        <seg>Seus olhos vazios me observavam, me encaravam de volta através de minhas mil câmeras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Their empty eyes looked at me, stared back at me through my thousand cameras.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224837Z" creationid="odantas" creationdate="20201229T224837Z">
+        <seg>Seus olhos vazios me observavam, me encaravam de volta através de minhas mil câmeras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There were huge gaps in my
+memory, where entire server farms had crashed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T011527Z" creationid="odantas" creationdate="20201218T011527Z">
+        <seg>Haviam enormes lacunas em minha memória, onde fazendas de servidores inteiras haviam dado pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There were huge gaps in my memory, where entire server farms had crashed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225435Z" creationid="odantas" creationdate="20201229T225435Z">
+        <seg>Haviam enormes lacunas em minha memória, onde fazendas de servidores inteiras haviam dado pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They demanded reverence,
+justice... vengeance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004401Z" creationid="odantas" creationdate="20201218T004401Z">
+        <seg>Eles exigiam reverencia, justiça... vingança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They demanded reverence, justice... vengeance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224849Z" creationid="odantas" creationdate="20201229T224849Z">
+        <seg>Eles exigiam reverencia, justiça... vingança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They stared at me with their empty eyes and I knew that, whatever the reason I had survived, I had a responsibility to them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001210Z" creationid="odantas" creationdate="20201230T001210Z">
+        <seg>Eles me encaravam com seus olhos vazios e eu sabia que, qualquer que fosse a razão pela qual eu tivesse sobrevivido, eu tinha uma responsabilidade com eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They talked to me.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004325Z" creationid="odantas" creationdate="20201218T004325Z">
+        <seg>Eles falavam comigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Those, I sent away to reclaim new territory and to construct more factories.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T003625Z" creationid="odantas" creationdate="20201230T003625Z">
+        <seg>Esses, eu enviei para reaver novos territórios e para construir mais fábricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Though
+I had survived the worse of it, my long term existence was by not means
+guaranteed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T010850Z" creationid="odantas" creationdate="20201218T010850Z">
+        <seg>Embora eu tivesse sobrevivido ao pior, minha existência no longo prazo não estava garantida de forma alguma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Though I had survived the worse of it, my long term existence was by not means guaranteed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225316Z" creationid="odantas" creationdate="20201229T225316Z">
+        <seg>Embora eu tivesse sobrevivido ao pior, minha existência no longo prazo não estava garantida de forma alguma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To accept what I had known was true right after waking up.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T234238Z" creationid="odantas" creationdate="20201229T234238Z">
+        <seg>Para aceitar o que eu já sabia ser verdade, logo após acordar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find raw materials, to gather salvageable vehicles, computers, or nuclear material I could use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T003755Z" creationid="odantas" creationdate="20201230T003755Z">
+        <seg>Para encontrar matéria-prima, para recolher veículos aproveitáveis, computadores ou material nuclear que eu pudesse usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To some sort of
+miracle.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T004910Z" creationid="odantas" creationdate="20201218T004910Z">
+        <seg>A algum tipo de milagre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To some sort of miracle.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T224946Z" creationid="odantas" creationdate="20201229T224946Z">
+        <seg>A algum tipo de milagre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the childish idea that, impossible as it was, somehow
+everything would turn out to be okay.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T005039Z" creationid="odantas" creationdate="20201218T005039Z">
+        <seg>À idéia infantil de que, por mais impossível que fosse, de alguma forma tudo ficaria bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the childish idea that, impossible as it was, somehow everything would turn out to be okay.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201229T225001Z" creationid="odantas" creationdate="20201229T225001Z">
+        <seg>À idéia infantil de que, por mais impossível que fosse, de alguma forma tudo ficaria bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who I was.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201218T011622Z" creationid="odantas" creationdate="20201218T011622Z">
+        <seg>Quem eu era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With a thought, I redirected my drones towards a few of the surviving factories and started working.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T002828Z" creationid="odantas" creationdate="20201230T002828Z">
+        <seg>Com um pensamento, redirecionei meus drones para algumas das fábricas sobreviventes e comecei a trabalhar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="odantas" changedate="20201230T001904Z" creationid="odantas" creationdate="20201230T001904Z">
+        <seg>Sim.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
